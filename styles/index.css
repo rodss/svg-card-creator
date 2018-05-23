@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Credit Card';
+    src: url('../fonts/CreditCard.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Credit Card', 'Courier New', Courier, monospace;
+}
